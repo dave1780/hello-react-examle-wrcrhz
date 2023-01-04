@@ -1,8 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './style.css';
+import App from "./App"
 
+const NewWeb=()=>{
+return (
+  <>
+  <App/>
+  </>
+)
+}
 ReactDOM.render(
-  <h1>Hel React!</h1>,
+  <NewWeb/> ,
   document.getElementById('root')
 );
