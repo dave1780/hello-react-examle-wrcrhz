@@ -1,4 +1,4 @@
-
+import React from "react"
 const NaveBar=()=>{
   return(
    <>
@@ -10,3 +10,4 @@ const NaveBar=()=>{
    </>
   )
 }
+export default NaveBar;
