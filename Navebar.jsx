@@ -1,4 +1,7 @@
 import React from "react"
+import Home from "./Components/Home"
+import Menu from "./Components/Menu"
+import About from "./Components/About"
 const NaveBar=()=>{
   return(
    <>
